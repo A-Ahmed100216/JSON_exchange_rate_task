@@ -64,5 +64,5 @@ With the setup complete, the tasks can be addressed.
 
 ### Output
 The output should consist of a dictionary with the contents of he json file. This will be followed by a list of each country and its corresponding exchange rate, separated by a colon.
-The image below shows a small snapshot of the output. 
+The image below shows a small snapshot of the output.    
 ![output](output.png)
